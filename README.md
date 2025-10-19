@@ -7,7 +7,7 @@
   <!-- Open Graph: Facebook sẽ lấy ảnh preview từ og:image nếu bạn share -->
   <meta property="og:title" content="Một lá thư cho bạn" />
   <meta property="og:description" content="Bấm vào phong bì để mở thư" />
-  <meta property="og:image" content="https://yourdomain.com/preview-envelope.jpg" />
+  <meta property="og:image" content="C:\Users\Admin\Downloads\Bài đăng Instagram Chúc mừng Ngày Phụ Nữ Việt Nam Hiện đại Hồng xanh.png" />
   <style>
     :root{--bg:#f6f3ef}
     body{margin:0;height:100vh;display:flex;align-items:center;justify-content:center;background:var(--bg);font-family:system-ui,Segoe UI,Roboto}
