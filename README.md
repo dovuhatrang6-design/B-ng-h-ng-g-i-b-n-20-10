@@ -33,8 +33,8 @@
       </div>
       <div class="back">
         <div class="letter" id="letter">
-          <h3 style="margin-top:0">Gửi bạn thân mến,</h3>
-          <p>Đây là nội dung bức thư. Bạn có thể chỉnh sửa, thay ảnh, thay font — mọi thứ đều nằm trong file này.</p>
+          <h3 style="margin-top:0">Gửi đến bạn những lời chúc ngọt ngào nhất nhân ngày 20/10,</h3>
+          <p>Chúc bạn luôn xinh đẹp, mạnh mẽ và hạnh phúc — không chỉ hôm nay mà là mỗi ngày sau này.Cảm ơn vì bạn đã xuất hiện, mang đến nụ cười và ánh sáng cho những người xung quanh.🌷Mong mọi điều tốt đẹp nhất sẽ luôn đến với bạn — bởi bạn xứng đáng với điều đó 💐✨.</p>
           <p>— Thân mến</p>
         </div>
       </div>
